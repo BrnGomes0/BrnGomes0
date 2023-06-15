@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=120&section=header"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50cbc8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 
 ### Languages and Tools 🖥️
 <div style="d🧍‍♂️isplay: inline_block">
-    <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,9 +37,9 @@
 <br>
 <strong>Technology admirer, always trying to get more knowledge. I really like backend development</strong>
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=404040&height=120&section=footer"/>
 <!-- <div align="center">
     
 ![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
-    
+
 </div> -->
