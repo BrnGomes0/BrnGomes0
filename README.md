@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**BrnGomes0/BrnGomes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50cbc8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
+  
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="border: none;">
+
+| STATS | LANGUAGES |
+| ------------ | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=BrnGomes0&show_icons=true&theme=dracula&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrnGomes0&layout=compact&theme=dark&hide_border=true&locale=en" /> |
+</div>
+
+
+
+<div align="center">
+<br>
+
+### Languages and Tools 🖥️
+<div style="d🧍‍♂️isplay: inline_block">
+    <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="ph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div><br>
+</div>
+
+<div align="center">
+
+  
+### About me 👨‍💻
+
+💼 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
+📖 Studying Mechatronics technician (2023 - 2026): Colégio Técnico de Campinas - UNICAMP <br>
+<br>
+<strong>Technology admirer, always trying to get more knowledge. I really like backend development</strong>
+</div>
+
+<!-- <div align="center">
+    
+![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
+    
+</div> -->
