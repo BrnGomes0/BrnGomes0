@@ -2,10 +2,10 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50cbc8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
-  
-</div><br>
+![gif](https://github.com/BrnGomes0/BrnGomes0/assets/132568509/9448900a-85d1-4432-b584-f7c7addc3e0c)
 
-<div style="border: none;">
+</div><br>
+<div style="border: none;", align="center">
 
 | STATS | LANGUAGES |
 | ------------ | ------------- |
