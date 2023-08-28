@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0DF5D&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50cbc8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CBCD3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
 ![gif](https://github.com/BrnGomes0/BrnGomes0/assets/132568509/9448900a-85d1-4432-b584-f7c7addc3e0c)
 
 </div><br>
@@ -38,7 +38,7 @@
 <br>
 <strong>Technology admirer, always trying to get more knowledge. I really like backend development</strong>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0DF5D&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=footer"/>
 <!-- <div align="center">
     
 ![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
