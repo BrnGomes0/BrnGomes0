@@ -31,7 +31,7 @@
 💼 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
 📖 Studying Mechatronics technician (2023 - 2026): Colégio Técnico de Campinas - UNICAMP <br>
 <br>
-<strong>Technology admirer, always trying to get more knowledge. I really like backend development</strong>
+<strong>Technology admirer, always trying to get more knowledge.</strong>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=footer"/>
 <!-- <div align="center">
