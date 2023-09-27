@@ -30,7 +30,7 @@
 
 💼 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
 <br>
-<strong>Technology admirer, always trying to get more knowledge.</strong>
+<strong>Technology admirer, always trying to get more knowledge.Bye!</strong>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=footer"/>
 <!-- <div align="center">
