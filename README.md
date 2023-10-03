@@ -26,7 +26,7 @@
 <div align="center">
 
   
-### About me 👨‍💻
+### About me - Bruno Willian 👨‍💻
 
 💼 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
 <br>
