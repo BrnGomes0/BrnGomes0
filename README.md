@@ -19,7 +19,7 @@
 
 ### Languages and Tools 🖥️
 <div style="d🧍‍♂️isplay: inline_block">
-  <img src="https://skillicons.dev/icons?i=,java,mysql,html,css,js,react,git,python,powershell,linux" width="50%" height="50%"/>
+  <img src="https://skillicons.dev/icons?i=,java,mysql,html,css,js,react,git,powershell,linux" width="50%" height="50%"/>
 </div><br>
 </div>
 
