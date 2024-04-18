@@ -1,9 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=header"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CBCD3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
-![gif](https://github.com/BrnGomes0/BrnGomes0/assets/132568509/9448900a-85d1-4432-b584-f7c7addc3e0c)
-
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 </div><br>
 <div style="border: none;", align="center">
 
@@ -16,22 +14,34 @@
 <div align="center">
 <br>
 
-### Languages and Tools 🖥️
-<div style="d🧍‍♂️isplay: inline_block">
-  <img src="https://skillicons.dev/icons?i=,java,mysql,html,css,js,react,git,powershell,springboot" width="50%" height="50%"/>
-</div><br>
-</div>
+### Front-End Technologies 🖌️:
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,figma " />
+  </a>
+</p>
+<br>
 
-<div align="center">
+### Back-End and others technologies 🖥️:
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,linux,kali,ubuntu,mysql" />
+  </a>
+</p>
+
 
   
 ### About me! 👨‍💻
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bruno-willian-nogueira-gomes)
+<br>
 
-💼 Technical Apprentice in Digital Solutions: CaP/ETS BOSCH <br>
+💼 Technical Apprentice in Digital Solutions (System Developer): CaP/ETS BOSCH <br>
+👨‍🔧 Technical Mecatronic COTUCA - Colégio Técnico de Campinas (Unicamp) <br>
 <br>
 <strong>Technology admirer, always trying to get more knowledge.Bye!</strong>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CBCD3&height=120&section=footer"/>
 <!-- <div align="center">
     
 ![Snake animation](https://github.com/luishbeck/luishbeck/blob/output/github-contribution-grid-snake.svg)
