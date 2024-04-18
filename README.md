@@ -9,12 +9,8 @@
 
 | STATS | LANGUAGES |
 | ------------ | ------------- |
-| <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
+| <img src="https://github-readme-stats.vercel.app/api?username=BrnGomes0&show_icons=true&theme=dark&hide_border=true&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrnGomes0&layout=compact&theme=dark&hide_border=true&locale=en" /> |
+</div>
 
 
 <div align="center">
