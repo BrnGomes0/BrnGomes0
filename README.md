@@ -14,20 +14,11 @@
 <div align="center">
 <br>
 
-### Front-End Technologies 🖌️:
+### Technologies 🖌️:
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,figma " />
-  </a>
-</p>
-<br>
-
-### Back-End and others technologies 🖥️:
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,git,linux,kali,ubuntu,mysql" />
+    <img src="https://skillicons.dev/icons?i=spring,docker,git,linux,python, kubernetes, azure" />
   </a>
 </p>
 
