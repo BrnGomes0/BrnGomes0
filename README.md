@@ -29,7 +29,7 @@
 <br>
 
 💼 Junior Full Stack Developer in Digital Solutions (System Developer): CaP/ETS BOSCH<br>
-👨‍🔧 Technical Mecatronic COTUCA - Colégio Técnico de Campinas (Unicamp) <br>
+🎨 Indie Hacking
 <br>
 <strong>Technology admirer, always trying to get more knowledge.Bye!</strong>
 </div>
