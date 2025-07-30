@@ -31,7 +31,6 @@
 💼 Junior Full Stack Developer in Digital Solutions (System Developer): CaP/ETS BOSCH<br>
 🎨 Indie Hacking
 <br>
-<strong>Technology admirer, always trying to get more knowledge.Bye!</strong>
 </div>
 <!-- <div align="center">
     
