@@ -18,7 +18,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,docker,git,linux,python, kubernetes, azure" />
+    <img src="https://skillicons.dev/icons?i=spring,docker,git,python,kubernetes,azure,aws,nextjs,rust" />
   </a>
 </p>
 
