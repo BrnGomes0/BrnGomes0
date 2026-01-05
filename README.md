@@ -28,8 +28,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bruno-willian-nogueira-gomes)
 <br>
 
-💼 Junior Full Stack Developer in Digital Solutions (System Developer): CaP/ETS BOSCH<br>
-🎨 Indie Hacking
+💼  Full Stack Developer at BOSCH<br>
 <br>
 </div>
 <!-- <div align="center">
