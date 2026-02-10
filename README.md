@@ -6,8 +6,6 @@
 <div style="border: none;", align="center">
 
 <div align="center">
-<br>
-
 ### Technologies 🖌️:
 <br>
 <p align="center">
