@@ -21,7 +21,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/bruno-willian-nogueira-gomes)
 <br>
 
-💼  Full Stack Developer at BOSCH<br>
+💼  Azure DevOps & Automation Developer<br>
 <br>
 </div>
 <!-- <div align="center">
