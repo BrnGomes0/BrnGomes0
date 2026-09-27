@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=3CBCD3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Bruno+Gomes!+👀;+Welcome!+:%29)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<img src="./assets/bruno-gomes.png" width="500" alt="Bruno Gomes">
 </div><br>
 
 <div align="center">
@@ -9,12 +9,12 @@
 ### Technologies 🖌️:
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,py,docker,git,kubernetes,azure,aws,nextjs" />
-  </a>
-  <a href="https://n8n.io">
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,py,docker,git,kubernetes,azure,aws,nextjs" /></a>
+  <br>
+  <a href="https://n8n.io"><img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" /></a>
+  <a href="https://azure.microsoft.com/products/devops"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="48" alt="Azure DevOps" /></a>
+  <a href="https://azure.microsoft.com/products/kubernetes-service"><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Kubernetes-Services.svg" height="48" alt="AKS" /></a>
+  <a href="https://keda.sh"><img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/keda/icon/color/keda-icon-color.svg" height="48" alt="KEDA" /></a>
 </p>
 
 ### About me! 👨‍💻
