@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,py,docker,git,kubernetes,azure,aws,nextjs,rust" />
+    <img src="https://skillicons.dev/icons?i=spring,py,docker,git,kubernetes,azure,aws,nextjs" />
   </a>
   <a href="https://n8n.io">
     <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" />
